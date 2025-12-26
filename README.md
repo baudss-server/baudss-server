@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
+ 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+baudss-server;Full+Stack+Web+Developer;Building+Ready-to-Deploy+Solutions;PHP+%7C+JS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+  </a>
 
-<!--
-**baudss-server/baudss-server** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
 
-Here are some ideas to get you started:
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=baudss-server&show_icons=true&theme=radical&hide_border=true" alt="baudss-server stats" />
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baudss-server&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+### 🚀 Projects & Works
+I focus on creating futuristic and dynamic web systems. Currently working on:
+
+- **E-Commerce & Branding:** Apparel & Print Store Solutions
+- **Management Systems:** Dental Clinic & Gym Management
+- **Security:** Modern Cipher & Dynamic Web Systems
