@@ -15,15 +15,14 @@
 
   <br><br>
 
-  <a href="https://github.com/baudss-server">
+  <img src="https://github.com/baudss-server/baudss-server/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+
+  <br><br>
+
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=baudss-server&show_icons=true&theme=radical&hide_border=true" alt="baudss-server stats" />
-  </a>
-  
-  <br>
-  
-  <a href="https://github.com/baudss-server">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baudss-server&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+  </p>
 
 </div>
 
