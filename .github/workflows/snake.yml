@@ -12,14 +12,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        with:
-          github_user_name: baudss-server
-          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: actions/checkout@v3
 
-      - uses: crazy-max/gh-action-github-pages@v2.1.3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/gh-action-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
