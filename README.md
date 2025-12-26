@@ -15,11 +15,15 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=baudss-server&show_icons=true&theme=radical&hide_border=true" alt="baudss-server stats" />
+  <a href="https://github.com/baudss-server">
+    <img src="https://github-readme-stats.vercel.app/api?username=baudss-server&show_icons=true&theme=radical&hide_border=true" alt="baudss-server stats" />
+  </a>
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baudss-server&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/baudss-server">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baudss-server&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 
 </div>
 
